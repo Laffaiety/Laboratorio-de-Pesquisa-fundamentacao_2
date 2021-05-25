@@ -16,11 +16,15 @@ Para o proximo ciclo, planeja-se:
 ## Modelagem do mapa do jogo
 ![mapa](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_2/blob/main/mapa.png)
 
-em amarelo é a primeira fase de português, onde está sendo a base de testes
-em vermelho é toda a área do desafio de português, onde serão futuras fases
-em verde é toda a área do desafio de matemática, onde terão futuras fases
-em marrom é a área de saida de cada desafio
-em azul é a área de liberação de residencias no jogo.
+-Em amarelo é a primeira fase de português, onde está sendo a base de testes
+
+-Em vermelho é toda a área do desafio de português, onde serão futuras fases
+
+-Em verde é toda a área do desafio de matemática, onde terão futuras fases
+
+-Em marrom é a área de saida de cada desafio
+
+-Em azul é a área de liberação de residencias no jogo.
 
 ## Painel de interações
 ![painel](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_2/blob/main/painel.png)
