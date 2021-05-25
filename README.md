@@ -14,8 +14,8 @@ Para o proximo ciclo, planeja-se:
 # Projeto ("Designing")
 
 ## Modelagem do mapa do jogo
-
 ![mapa](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_2/blob/main/mapa.png)
+
 em amarelo é a primeira fase de português, onde está sendo a base de testes
 em vermelho é toda a área do desafio de português, onde serão futuras fases
 em verde é toda a área do desafio de matemática, onde terão futuras fases
